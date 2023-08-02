@@ -87,3 +87,4 @@ for subject in AttendanceData:
         print('\n\n')
     except Exception:
         pass
+driver.close()
